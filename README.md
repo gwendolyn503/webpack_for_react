@@ -1,4 +1,4 @@
-打包：npm run build
+打包：npm run build </br>
 开发模式运行：npm run start
 
 相关包配置
