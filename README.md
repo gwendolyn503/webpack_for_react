@@ -1,5 +1,6 @@
-<strong>打包</strong>：npm run build </br>
-<strong>开发模式运行</strong>：npm run start</br>
+打包：npm run build </br>
+开发模式运行：npm run start</br>
+</br>
 <strong>相关包配置</strong></br>
 1.cnpm i webpack -g</br>
 2.cnpm i webpack webpack-cli -D</br>
