@@ -1,7 +1,7 @@
-<i>打包</i>：npm run build </br>
-<i>开发模式运行</i>：npm run start</br>
-
-<i>相关包配置</i></br>
+打包：npm run build </br>
+开发模式运行：npm run start</br>
+</br>
+<strong>相关包配置</strong></br>
 1.cnpm i webpack -g</br>
 2.cnpm i webpack webpack-cli -D</br>
 3.npm init -y</br>
@@ -13,12 +13,12 @@
 9.cnpm i webpack-dev-server -D</br>
 10.cnpm i sass-loader -D</br>
 11.cnpm i node-sass -D</br>
-<i>注意</i>：</br>
+<strong>注意</strong>：</br>
     在配置文件script里面加   </br>
 		"build":"webpack --mode production ./foo/src/index.js --output ./foo/main.js",</br>
 		"dev":"webpack --mode development ./foo/src/index.js --output ./foo/main.js"一个是开发模式，一个是生产模式，后面的foo是入口文件，--output是出口文件</br>
 	也可以默认不要设置出口入口文件</br>
-<i>总结</i>：</br>
+<strong>总结</strong>：</br>
 1.webpack 4.0可以是零配置操作，首先需要安装npm i webpack -g,npm i webpack webpack-cli -D</br>
 2.在package.json中直接设置scripts,可以设置为"dev":"webpack"</br>
 3.有一个参数是mode,模式有几种？2种，一个是development/production</br>
