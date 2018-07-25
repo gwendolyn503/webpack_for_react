@@ -1,2 +1,2 @@
-import App from './App';
-import style from './main.css';
+import App from './components/App.js';
+import style from './index.scss';

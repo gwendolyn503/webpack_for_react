@@ -710,5 +710,5 @@
     "url": "https://github.com/gwendolyn503/webpack_for_react/issues"
   },
   "homepage": "https://github.com/gwendolyn503/webpack_for_react#readme",
-  "description": ""
+  "description": "<i>打包</i>：npm run build </br>\r <i>开发模式运行</i>：npm run start</br>"
 }
