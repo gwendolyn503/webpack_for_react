@@ -1,4 +1,7 @@
 h1 {
   color: blue; }
 
+body {
+  line-height: 2;
+  background: pink; }
 

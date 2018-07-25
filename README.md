@@ -13,6 +13,7 @@
 9.cnpm i webpack-dev-server -D</br>
 10.cnpm i sass-loader -D</br>
 11.cnpm i node-sass -D</br>
+12.cnpm i babel-preset-stage-0 -D
 <strong>注意</strong>：</br>
     在配置文件script里面加   </br>
 		"build":"webpack --mode production ./foo/src/index.js --output ./foo/main.js",</br>
